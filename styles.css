@@ -1,9 +1,9 @@
 h3 {
-  color: white;
+  color: black;
 }
 
 h2 {
-  color: white;
+  color: black;
 }
 
 .row > div {
@@ -12,7 +12,7 @@ h2 {
 }
 
 .row > div {
-  background-color: green;
+  background-color: lightblue;
 }
 
 .container h2 {
