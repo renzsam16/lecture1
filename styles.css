@@ -1,0 +1,25 @@
+h3 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+.row > div {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.row > div {
+  background-color: green;
+}
+
+.container h2 {
+  font-size: 26px;
+}
+.container h3 {
+  font-size: 22px;
+}
+
+/*# sourceMappingURL=styles.css.map */
